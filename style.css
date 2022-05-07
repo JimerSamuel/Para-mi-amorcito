@@ -27,7 +27,7 @@ section div {
 section div:nth-child(1) {
     position: relative;
     width: 50%;
-    background: aqua;
+    background:radial-gradient(center center, circle, #1162ac);;
     background-size: cover;
     overflow: hidden;
 }
